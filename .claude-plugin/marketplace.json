@@ -1,0 +1,14 @@
+{
+  "name": "painbase-skills",
+  "owner": {
+    "name": "PainBase"
+  },
+  "description": "PainBase founder research skills: validate ideas, find markets, pain points, competitors, landing copy.",
+  "plugins": [
+    {
+      "name": "painbase-skills",
+      "source": "./",
+      "description": "5 founder research skills powered by the PainBase MCP."
+    }
+  ]
+}
