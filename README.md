@@ -1,5 +1,7 @@
 # PainBase Skills
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/p-tung-painbase-skills-7qqyqz?v=f75461862c33780a3b2a4b101fb704b8)](https://m8ven.ai/mcp/p-tung-painbase-skills-7qqyqz?s=readme)
+
 **Validate startup ideas inside Claude Code and Cursor, with real complaints and verified revenue instead of vibes.**
 
 5 agent skills that call the [PainBase](https://www.painbase.space/?utm_source=github&utm_campaign=skills) MCP:
